@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Edgar!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Machine+Learning+enthusiast+%F0%9F%A7%A0" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Edgar!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Machine+Learning+enthusiast+%F0%9F%A7%A0" alt="Typing SVG" /></a>
 
-<p align="center">
 <img src="https://media1.tenor.com/m/AnXUD6q7O1UAAAAd/hu-tao.gif" width="500"/>
-</p>
 
 I'm currently learning **Machine Learning** and I really enjoy tech, anime, and experimenting with cool projects!  
 Still a beginner, but I'm passionate about learning and growing every day 💪
