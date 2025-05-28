@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Edgar! 👋
 
-<!--
-**EdgarRizki01/EdgarRizki01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/Ug6zA1G6XcUAAAAC/hu-tao-dance.gif" width="200"/>
 
-Here are some ideas to get you started:
+I'm currently learning **Machine Learning** and I really enjoy tech, anime, and experimenting with cool projects!  
+Still a beginner, but I'm passionate about learning and growing every day 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 What I'm Learning
+
+- Basics of Machine Learning (regression, classification)
+- Python programming
+- Working with data using **Pandas** and **NumPy**
+- Running models in **Jupyter Notebook**
+
+---
+
+## 🛠️ Tools I Use
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+---
+
+## ✨ A Little About Me
+
+- 🌱 Beginner in ML, but motivated and always curious!
+- 🎮 Big fan of games and anime (Hu Tao is my queen 🔥)
+- 🧠 I dream of building something useful with AI someday
+
+---
+
+## 📫 Reach Me
+
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+
+---
+
+> _"Coding while watching anime? That's the dream life."_ 🌸
