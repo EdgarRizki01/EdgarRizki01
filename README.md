@@ -1,6 +1,6 @@
 # Hi there, I'm Edgar! 👋
 
-<img src="https://tenor.com/view/genshin-impact-hu-tao-gif-17128025963641283079" width="200"/>
+<img src="https://media1.tenor.com/m/7bL43aKBogcAAAAd/genshin-impact-hu-tao.gif" width="200"/>
 
 I'm currently learning **Machine Learning** and I really enjoy tech, anime, and experimenting with cool projects!  
 Still a beginner, but I'm passionate about learning and growing every day 💪
