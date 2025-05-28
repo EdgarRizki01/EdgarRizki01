@@ -1,6 +1,6 @@
 # Hi there, I'm Edgar! 👋
 
-<img src="https://media.tenor.com/Ug6zA1G6XcUAAAAC/hu-tao-dance.gif" width="200"/>
+<img src="https://tenor.com/view/genshin-impact-hu-tao-gif-17128025963641283079" width="200"/>
 
 I'm currently learning **Machine Learning** and I really enjoy tech, anime, and experimenting with cool projects!  
 Still a beginner, but I'm passionate about learning and growing every day 💪
@@ -28,7 +28,7 @@ Still a beginner, but I'm passionate about learning and growing every day 💪
 ## ✨ A Little About Me
 
 - 🌱 Beginner in ML, but motivated and always curious!
-- 🎮 Big fan of games and anime (Hu Tao is my queen 🔥)
+- 🎮 Big fan of games and anime
 - 🧠 I dream of building something useful with AI someday
 
 ---
