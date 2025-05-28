@@ -1,6 +1,10 @@
-# Hi there, I'm Edgar! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Edgar+👋;Welcome+to+my+GitHub+profile!;Machine+Learning+enthusiast+🧠" alt="Typing SVG" />
+</p>
 
+<p align="center">
 <img src="https://media1.tenor.com/m/AnXUD6q7O1UAAAAd/hu-tao.gif" width="500"/>
+</p>
 
 I'm currently learning **Machine Learning** and I really enjoy tech, anime, and experimenting with cool projects!  
 Still a beginner, but I'm passionate about learning and growing every day 💪
